@@ -2,7 +2,7 @@
  *                                                                                                                                   *
  *                                                    )(   3DTryg Functions   )(                                                     *
  *                                                                                                                                   *
- * Copyright © 2018 Abyss Morgan. All rights reserved.                                                                               *
+ * Copyright Â© 2018 Abyss Morgan. All rights reserved.                                                                               *
  * Contributors: Crayder, IllidanS4, Nero_3D, RyDeR, Zoutdaxv, hesambia, Neil Lamoureux, Ivan_Ino, Ralfie, Unrea1, Katarina Calzaghe *
  *                                                                                                                                   *
  * Website:  http://8.ct8.pl                                                                                                         *
@@ -1193,7 +1193,6 @@ public OnVehicleSpawn(vehicleid){
 
 #define	sqrtN(%0,%1)									floatpower((%0),(1.0/(%1)))
 
-#define IsEven(%0)										((((%0) % 2) == 0)?(true):(false))
 #define power(%0,%1)									(floatround(floatpower((%0),(%1)))) 
  
 //Author: hesambia random.inc
